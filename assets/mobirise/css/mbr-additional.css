@@ -1684,6 +1684,9 @@ body {
 .cid-qQDZuVCRRF .mbr-section-subtitle {
   color: #767676;
 }
+.cid-qQDZuVCRRF B {
+  color: #465052;
+}
 .cid-qQDZ4d9L78 {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1701,6 +1704,10 @@ body {
 .cid-qQDZ4d9L78 .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-qQDZ4d9L78 .card-title,
+.cid-qQDZ4d9L78 .card-img B {
+  color: #465052;
 }
 .cid-qQE0hD9Y73 {
   padding-top: 30px;
@@ -1726,6 +1733,9 @@ body {
 }
 .cid-qQE0DnDGXi .card-wrapper {
   height: 100%;
+}
+.cid-qQE0DnDGXi .card-title B {
+  color: #465052;
 }
 .cid-qQE1UXgPi0 {
   padding-top: 30px;
@@ -1770,6 +1780,12 @@ body {
   flex-direction: column;
   -webkit-flex-direction: column;
 }
+.cid-qQE3qooJec .mbr-section-title B {
+  color: #465052;
+}
+.cid-qQE3qooJec .card-title B {
+  color: #465052;
+}
 .cid-qQE6v0M6RJ {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1781,7 +1797,7 @@ body {
   background-image: url("../../../assets/images/banner-lunch-1275x381.png");
 }
 .cid-qQZxyCpZVf H1 {
-  color: #232323;
+  color: #465052;
 }
 .cid-qQZyh5JWcy {
   padding-top: 15px;
@@ -1794,7 +1810,7 @@ body {
   background-image: url("../../../assets/images/office-snacks-2-1024x1024-1000x400.jpg");
 }
 .cid-qQZylwYcmx H1 {
-  color: #232323;
+  color: #465052;
 }
 .cid-qQZyrZO2UI {
   padding-top: 15px;
@@ -1807,7 +1823,7 @@ body {
   background-image: url("../../../assets/images/juice-640x427.jpg");
 }
 .cid-qQZyturIA3 H1 {
-  color: #232323;
+  color: #465052;
 }
 .cid-qQE9ctRXjx {
   padding-top: 30px;
@@ -1841,8 +1857,14 @@ body {
   display: block;
   text-align: center;
 }
+.cid-qQE9phvhg5 B {
+  color: #465052;
+}
+.cid-qQE9phvhg5 LABEL {
+  color: #465052;
+}
 .cid-qQE9zcz3F3 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #465052;
 }
